@@ -1,0 +1,17 @@
+{
+  "providers":
+  [
+    {
+      "type": "reference",
+      "id": "wynntils:providers/german/body_0"
+    },
+    {
+      "type": "reference",
+      "id": "wynntils:providers/russian/body_0"
+    },
+    {
+      "type": "reference",
+      "id": "wynntils:providers/special/body_0"
+    }
+  ]
+}
