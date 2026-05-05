@@ -12,6 +12,10 @@
     {
       "type": "reference",
       "id": "wynntils:providers/special/body_3"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:hud/dialogue/text/common/body_3"
     }
   ]
 }
